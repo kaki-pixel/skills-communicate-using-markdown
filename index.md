@@ -14,3 +14,8 @@ var myVar = "Hello!";
 ``` python
 print("Hi!")
 ```
+
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
